@@ -1,0 +1,2 @@
+colo industry 
+syntax on
