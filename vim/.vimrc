@@ -1,4 +1,3 @@
-" test
 
-colo industry 
+colo industry
 syntax on
